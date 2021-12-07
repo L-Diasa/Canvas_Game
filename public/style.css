@@ -1,4 +1,4 @@
-:root {
+/* :root {
     --purple: #1e2039;
     --green: #00be68;
     --pink: #d53d64;
@@ -33,7 +33,7 @@
       display: grid;
       grid-template-columns: 45% 10% 45%;
   } */
-
+/*  
   .score {
     display: flex;
     flex-direction: row;
@@ -48,14 +48,14 @@
 
 
 body {
-    /* text-align: center; */
+    /* text-align: center; 
     background-color: var(--purple);
     display: grid;
     grid-template-columns: 90% 10%;
     /* font-family: 'M PLUS Rounded 1c', sans-serif;
-    font-size: 20px; */
+    font-size: 20px; 
   }
-
+ 
 
 #canvas1 {
     grid-column: 1 / 2;
@@ -74,7 +74,7 @@ body {
     height: 100%;
     /* margin: auto; */
     /* margin-top: 50%; */
-    /* position: inherit; */
+    /* position: inherit;
     display: grid;
     place-content: center;
     gap: 1ch;
@@ -125,10 +125,10 @@ gap: 1ch; */
 .col.blue, .p2 .coin {
     background-color: var(--blue);
     cursor: pointer;
-} */
+} 
 
 .connection span {
-    /* margin: 0.2rem; */
+    /* margin: 0.2rem; 
     display: flex;
     width: 1rem;
     height: 1rem;
@@ -143,7 +143,7 @@ gap: 1ch; */
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    /* margin-top: 300%; */
+    /* margin-top: 300%; 
 }
 
 span.green {
@@ -157,10 +157,10 @@ path {
 
 button {
     /* margin-left: 21%; */
-    /* margin-top: 10%; */
+    /* margin-top: 10%; 
     width: 80px;
     height: 35px;
-    /* text-align: center; */
+    /* text-align: center; 
     border-radius: 30px;
     border-color: var(--green);
     color: var(--green);
