@@ -38,7 +38,6 @@ body {
     grid-template-columns: 90% 10%;
   }
 
-
 #canvas1 {
     grid-column: 1 / 2;
     background: black;
